@@ -1,5 +1,4 @@
 import React from 'react';
-import _ from 'lodash';
 import MainTab from './main/main';
 import DesignTab from './design/design';
 import * as UI from 'editor-ui-lib';
